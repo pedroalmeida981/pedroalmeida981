@@ -29,7 +29,7 @@ These are historical learning and university-era repositories—not examples of 
 | [Mood Tracker](https://github.com/pedroalmeida981/Mood-Tracker) | Incomplete Android / Kotlin mood-tracking interface | Testing unfinished features, navigation blockers, acceptance criteria |
 | [PAB Bot](https://github.com/pedroalmeida981/AI-ChatBot) | Python / NLTK rule-based chatbot notebook | Input variation, matching rules, limitations of scripted responses |
 
-Each repository includes a project-specific README and a `docs/INTERVIEW_PREP.md` file with **source-based technical explanations and proposed test scenarios**. Proposed test scenarios are not presented as executed tests.
+Each repository includes a project-specific English README covering its purpose, technologies, current scope and known limitations.
 
 ## How I approach quality
 
