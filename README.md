@@ -1,3 +1,4 @@
+
 # Pedro Almeida
 
 **QA Engineer · Web & Mobile Testing · Playwright & Cypress · Accessibility (WCAG 2.1 AA)**
@@ -27,16 +28,21 @@ I have a **BSc in Game Development (University of Sunderland)**, which gave me a
 - **Python / Playwright / Claude Code:** browser, API, mobile and accessibility testing workflows, with evidence and approval gates.
 - **`qa-audit`:** automated website auditing for accessibility, passive security, performance, functionality and optional visual checks.
 - **`qa-ui`:** a local QA interface; the multi-project hub is currently under development.
-- **Engineering practices:** versioned documentation, automated tests, GitHub Actions CI, privacy boundaries and integrations for Excel, Jira/Xray and Azure DevOps.
+- **Engineering practices:** versioned documentation, automated tests, GitHub Actions CI, privacy boundaries and integration components for Excel, Jira/Xray and Azure DevOps.
 
-The project is **publicly viewable but proprietary**. [Read the repository](https://github.com/pedroalmeida981/qa-assistant), [technical documentation](https://github.com/pedroalmeida981/qa-assistant/blob/main/docs/methodology.md) or [CI history](https://github.com/pedroalmeida981/qa-assistant/actions/workflows/ci.yml).
+The project is **publicly viewable but proprietary**. Some features remain in development or require further integration testing.
 
-## Academic and learning projects
+[Read the repository](https://github.com/pedroalmeida981/qa-assistant), [technical documentation](https://github.com/pedroalmeida981/qa-assistant/blob/main/docs/methodology.md) or [CI history](https://github.com/pedroalmeida981/qa-assistant/actions/workflows/ci.yml).
 
-These are historical learning and university-era repositories—not examples of my professional employers' proprietary code. I have documented them to make the scope of each project clear and to show how I approach quality and technical problem-solving.
+## Projects & Portfolio
 
-| Repository | What is in the code | QA discussion points |
+My GitHub includes my current personal quality-engineering project, alongside academic and learning projects from my software development background.
+
+These repositories demonstrate my interest in QA methodologies, test automation, Android development, Python, C# and Unity. They are separate from my professional client assignments and do not contain proprietary client code.
+
+| Repository | What is in the code | QA & engineering focus |
 | --- | --- | --- |
+| [QA Assistant](https://github.com/pedroalmeida981/qa-assistant) | Python, Playwright and Claude Code; AI-assisted QA framework, automated website auditing (`qa-audit`), local QA interface (`qa-ui`), testing workflows and CI. Active development. | Test automation, accessibility, API and web testing, structured test design, evidence, reporting and human-reviewed results |
 | [Do I Need It?](https://github.com/pedroalmeida981/Do-I-Need-It-Android-App) | Java Android list-management app with Firebase Authentication and Firestore CRUD | Authentication, data isolation, search consistency, error handling |
 | [Space Quests](https://github.com/pedroalmeida981/Space-Quests-Game) | Unity / C# first-person gameplay, inventory and enemy behaviours | State transitions, system integration, gameplay boundaries |
 | [The Gaming Evolution](https://github.com/pedroalmeida981/TheGamingEvolution) | Unity scenes covering 2D, 3D and Tetris-style mechanics | Grid rules, collision detection, scene transitions |
@@ -44,7 +50,9 @@ These are historical learning and university-era repositories—not examples of 
 | [Mood Tracker](https://github.com/pedroalmeida981/Mood-Tracker) | Incomplete Android / Kotlin mood-tracking interface | Testing unfinished features, navigation blockers, acceptance criteria |
 | [PAB Bot](https://github.com/pedroalmeida981/AI-ChatBot) | Python / NLTK rule-based chatbot notebook | Input variation, matching rules, limitations of scripted responses |
 
-Each repository includes a project-specific English README covering its purpose, technologies, current scope and known limitations.
+**QA Assistant** is my current personal engineering project. Its source code is publicly viewable under a proprietary licence, and its current capabilities, limitations and development roadmap are documented in the repository.
+
+The remaining repositories are historical academic or learning projects, each with a project-specific English README covering its purpose, technologies, current scope and known limitations.
 
 ## How I approach quality
 
@@ -56,4 +64,6 @@ Each repository includes a project-specific English README covering its purpose,
 
 ## Let's connect
 
-I am interested in collaborative engineering teams that value reliable software, accessibility, and continuous learning. You can connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-almeida-549904217/) or explore my work on [GitHub](https://github.com/pedroalmeida981).
+I am interested in collaborative engineering teams that value reliable software, accessibility, and continuous learning.
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-almeida-549904217/) or explore my work on [GitHub](https://github.com/pedroalmeida981).
