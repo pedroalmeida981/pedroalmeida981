@@ -1,20 +1,24 @@
 # Pedro Almeida
 
-**QA Engineer · Software Testing · Digital Accessibility**
+**QA Engineer · Web & Mobile Testing · Playwright & Cypress · Accessibility (WCAG 2.1 AA)**
 
-Portugal-based QA professional with around five years of experience in software quality, including functional and exploratory testing, accessibility, mobile applications, and web platforms. I enjoy understanding how software behaves, finding edge cases, and helping teams turn defects into clear, actionable improvements.
+Lisbon-based QA Engineer with over four years of experience in functional, exploratory and regression testing of web and mobile applications, including accessibility testing. I combine manual quality assurance with Playwright and Cypress automation, and previously worked as an Android developer using Kotlin and Java. I value evidence-based testing, practical defect reporting and collaboration with engineering teams.
 
 **Open to QA Engineer, Software Test Engineer, and Accessibility Testing roles in the Netherlands.** EU citizen; open to relocating from Portugal.
 
 ## Quality engineering focus
 
-- **Functional QA:** exploratory, regression, usability, and cross-platform testing; test-case design; defect reporting and verification.
-- **Accessibility:** WCAG-focused reviews, assistive technology, keyboard navigation, focus handling, and inclusive user journeys.
+- **Functional QA:** web/mobile functional, regression, exploratory and usability testing; test-case design, severity/priority assessment and defect verification.
+- **Accessibility:** manual WCAG 2.1 AA reviews, NVDA, VoiceOver, keyboard navigation, focus behaviour and colour contrast.
 - **Mobile and web:** Android, iOS, browser-based applications, and end-to-end flows.
-- **Automation and technical work:** Playwright-based browser testing; API and performance-testing experience/training, including Postman and k6.
-- **Delivery and collaboration:** Jira, Azure DevOps, Agile teams, reproducible defect reports, and clear risk communication.
+- **Automation and technical work:** Playwright, Cypress regression scripts, Claude Code-assisted automated QA testing on confidential client work, Postman API testing; introductory k6 performance-testing training.
+- **Delivery and collaboration:** Jira, Azure DevOps, Agile teams, test plans, dashboards, reproducible defect reports and clear risk communication.
 
-I have a **BSc in Game Development (University of Sunderland)**, which gave me a foundation in programming, software architecture, and debugging across different systems.
+## Professional background
+
+I work at **Bliss Applications** and have contributed to QA across banking, retail, payments, events, mobile products and other client assignments. My experience includes manual accessibility reviews of banking interfaces, Android/iOS testing, Cypress regression scripts, Playwright workflows and Claude Code-assisted automated QA testing on confidential client work. Before moving into QA in 2022, I developed Android applications with Kotlin and Java.
+
+I have a **BSc in Game Development (University of Sunderland)**, which gave me a foundation in programming, software architecture and debugging across different systems.
 
 ## Current project — QA Assistant (active development)
 
@@ -52,4 +56,4 @@ Each repository includes a project-specific English README covering its purpose,
 
 ## Let's connect
 
-I am interested in collaborative engineering teams that value reliable software, accessibility, and continuous learning. You can contact me through [GitHub](https://github.com/pedroalmeida981) and the professional links listed on my profile.
+I am interested in collaborative engineering teams that value reliable software, accessibility, and continuous learning. You can connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-almeida-549904217/) or explore my work on [GitHub](https://github.com/pedroalmeida981).
