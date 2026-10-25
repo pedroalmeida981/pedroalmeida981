@@ -16,7 +16,18 @@ Portugal-based QA professional with around five years of experience in software 
 
 I have a **BSc in Game Development (University of Sunderland)**, which gave me a foundation in programming, software architecture, and debugging across different systems.
 
-## Projects
+## Current project — QA Assistant (active development)
+
+**[QA Assistant — AI-assisted Quality Engineering Framework](https://github.com/pedroalmeida981/qa-assistant)** is the project I am actively developing to combine structured QA workflows, test automation and human-reviewed results.
+
+- **Python / Playwright / Claude Code:** browser, API, mobile and accessibility testing workflows, with evidence and approval gates.
+- **`qa-audit`:** automated website auditing for accessibility, passive security, performance, functionality and optional visual checks.
+- **`qa-ui`:** a local QA interface; the multi-project hub is currently under development.
+- **Engineering practices:** versioned documentation, automated tests, GitHub Actions CI, privacy boundaries and integrations for Excel, Jira/Xray and Azure DevOps.
+
+The project is **publicly viewable but proprietary**. [Read the repository](https://github.com/pedroalmeida981/qa-assistant), [technical documentation](https://github.com/pedroalmeida981/qa-assistant/blob/main/docs/methodology.md) or [CI history](https://github.com/pedroalmeida981/qa-assistant/actions/workflows/ci.yml).
+
+## Academic and learning projects
 
 These are historical learning and university-era repositories—not examples of my professional employers' proprietary code. I have documented them to make the scope of each project clear and to show how I approach quality and technical problem-solving.
 
