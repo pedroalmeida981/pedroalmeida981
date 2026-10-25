@@ -5,8 +5,6 @@
 
 Lisbon-based QA Engineer with over four years of experience in functional, exploratory and regression testing of web and mobile applications, including accessibility testing. I combine manual quality assurance with Playwright and Cypress automation, and previously worked as an Android developer using Kotlin and Java. I value evidence-based testing, practical defect reporting and collaboration with engineering teams.
 
-**Open to QA Engineer, Software Test Engineer, and Accessibility Testing roles in the Netherlands.** EU citizen; open to relocating from Portugal.
-
 ## Quality engineering focus
 
 - **Functional QA:** web/mobile functional, regression, exploratory and usability testing; test-case design, severity/priority assessment and defect verification.
